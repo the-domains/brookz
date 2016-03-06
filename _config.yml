@@ -1,7 +1,7 @@
 name: brookz
 favicon: null
-layout_spectrum: 0.4577533390838653
-typography_spectrum: 0.5303804464638233
+layout_spectrum: 1
+typography_spectrum: 0.75442
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.765923168277368
+  brandStrength: 0.75
   lightness: 0.7111545440275222
   saturation: 0.07802823279052973
   rhythmicContrast: 0.8246535370126367
